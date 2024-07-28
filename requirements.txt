@@ -1,0 +1,7 @@
+packages:
+
+pygame
+random
+time
+sys
+os
